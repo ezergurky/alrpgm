@@ -1,0 +1,21 @@
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(3) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(6) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_GetCreatedPrivateChannel"
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(6) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(7) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_SendChannelMessage"
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(6) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "PM"
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(41) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(41) -- (67) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "query" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(68) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_GetCreatedPrivateChannel"
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(68) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(70) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "DCC_CreateEmbed"
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(70) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(70) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(70) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "image_url"
+C:\Users\perma\Documents\Asia Lane\gamemodes\AsiaScript\DISCORD.pwn(70) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:7.

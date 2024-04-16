@@ -1,0 +1,4 @@
+[05/07/2023 - 09:35:56] - [VEH]: Faruq Jumantara menyewa kapal seharga $-1 /one days model Dinghy(473)!
+[13/07/2023 - 21:05:41] - [WS]: aufaXawaa membeli workshop id 13 seharga $1,000!
+[03/03/2024 - 14:35:45] - [VEH]: Kenz Smith menyewa kendaraan seharga $4,500 /one days model Bike(509)!
+[03/03/2024 - 16:15:38] - [VEH]: Lucas Michael menyewa kendaraan seharga $5,000 /one days model Mountain Bike(510)!

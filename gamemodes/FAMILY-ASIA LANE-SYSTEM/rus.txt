@@ -1,0 +1,35 @@
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(7) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(40) : îøèáêà 001: îæèäàëñÿ òîêåí "-identifier-", íî íàéäåí "-integer value-"
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(148) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "fid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(170) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "fid" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(188) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(190) : îøèáêà 021: èäåíòèôèêàòîð "Family_Save" óæå îáúÿâëåí
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(191) : îøèáêà 021: èäåíòèôèêàòîð "Family_Refresh" óæå îáúÿâëåí
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(192) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(195) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(197) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí ")"
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(198) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(200) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(201) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(204) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(205) : îøèáêà 008: äîëæíî áûòü ïîñòîÿííûì âûðàæåíèåì; ïðèíÿò íîëü
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(206) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(207) : îøèáêà 008: äîëæíî áûòü ïîñòîÿííûì âûðàæåíèåì; ïðèíÿò íîëü
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(208) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(209) : îøèáêà 008: äîëæíî áûòü ïîñòîÿííûì âûðàæåíèåì; ïðèíÿò íîëü
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(210) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(211) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(212) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(213) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(214) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(215) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(216) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(217) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\FAMILY-ASIA LANE-SYSTEM\Fam-ASIA LANE-system.pwn(218) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

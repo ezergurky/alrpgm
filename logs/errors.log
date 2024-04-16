@@ -1,0 +1,165 @@
+[03/07/24 21:30:41] [plugins/mysql] error #1146 while executing query "SELECT * FROM `matext`": Table 'asia.matext' doesn't exist
+[03/07/24 21:30:41] [plugins/mysql] error #1146 while executing query "SELECT * FROM `dealership`": Table 'asia.dealership' doesn't exist
+[03/07/24 21:30:41] [plugins/mysql] error #1146 while executing query "SELECT * FROM `trash`": Table 'asia.trash' doesn't exist
+[03/07/24 21:30:41] [plugins/mysql] error #1146 while executing query "SELECT * FROM `pedagang`": Table 'asia.pedagang' doesn't exist
+[03/07/24 21:30:41] [plugins/mysql] error #1146 while executing query "SELECT * FROM `farm`": Table 'asia.farm' doesn't exist
+[03/07/24 21:30:41] [plugins/mysql] error #1146 while executing query "SELECT * FROM `robbery`": Table 'asia.robbery' doesn't exist
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_int: field 'pedagang' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_int: field 'ayamfill' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_int: field 'ayamfillprice' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name: field 'employe3' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'posa' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnx' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawny' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnz' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawna' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'posa' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnx' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawny' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnz' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawna' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'posa' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnx' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawny' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnz' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawna' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'posa' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnx' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawny' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnz' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawna' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'posa' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnx' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawny' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawnz' not found
+[03/07/24 21:30:42] [plugins/mysql] cache_get_value_name_float: field 'spawna' not found
+[03/07/24 21:32:24] [plugins/mysql] cache_get_value_name_int: no active cache
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Kompensasi1' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Kompensasi2' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'booster' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'booster_time' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'job_spareparttime' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'kanabis' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'cig' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bizlic' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bizlic_time' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bpjs' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bpjs_time' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'boombox' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'pizza' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'mineral' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'burger' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'chiken' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'nasikucing' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'ayamgeprek' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Kue' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'cola' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'lockpick' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'robbanktime' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'robbiztime' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'robatmtime' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'panelhacking' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'ayamhidup' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'ayampotong' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'ayamfillet' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bomb' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'farm' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'farmrank' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name: field 'tinggi' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name: field 'berat' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'batu' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'batucucian' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'emas' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'minyak' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'essence' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'sampahsaya' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'wool' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'kain' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'kayu' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'papan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'umpan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'pancingan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'pakaian' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Susu' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'SusuOlahan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'BuluAyam' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'InstallTweet' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'InstallMap' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'InstallMbanking' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'InstallGojek' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Starling' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Kebab' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Cappucino' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'MilxMax' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Roti' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'Wallpaper' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'InstallDweb' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'padi' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'jagung' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'cabai' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'tebu' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'padiolahan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'benihkopi' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'benihteh' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'benihjeruk' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'olahkopi' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'olahteh' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'olahjeruk' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bijikopi' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'sariteh' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'sarijeruk' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'kopiruq' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'esteh' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'esjeruk' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bandanaruq' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'jagungolahan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'cabaiolahan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'tebuolahan' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'beras' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'tepung' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'sambal' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'gula' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'besi' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'aluminium' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'penyu' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'makarel' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'nemo' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'bluefish' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'perban' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'obatstres' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'steak' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'vest' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'sks' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'karet' not found
+[03/07/24 21:32:29] [plugins/mysql] cache_get_value_name_int: field 'box' not found
+[03/07/24 21:32:49] [plugins/mysql] error #1054 while executing query "UPDATE `players` SET `Gun1` = '0', `Gun2` = '0', `Gun3` = '0', `Gun4` = '0', `Gun5` = '0', `Gun6` = '0', `Gun7` = '0', `Gun8` = '0', `Gun9` = '0', `Gun10` = '0', `Gun11` = '0', `Gun12` = '0', `Gun13` = '0', `Ammo1` = '0', `Ammo2` = '0', `Ammo3` = '0', `Ammo4` = '0', `Ammo5` = '0', `Ammo6` = '0', `Ammo7` = '0', `Ammo8` = '0', `Ammo9` = '0', `Ammo10` = '0', `Ammo11` = '0', `Ammo12` = '0', `Ammo13` = '0', `username` = 'Jack_Impack', `adminname` = 'None', `twittername` = '', `ip` = '255.255.255.255', `admin` = '0', `servermod` = '0', `eventmod` = '0', `factionmod` = '0', `familymod` = '0', `helper` = '0', `level` = '1', `levelup` = '0', `vip` = '0', `vip_time` = '0', `booster` = '0', `booster_time` = '0', `gold` = '0', `money` = '250', `redmoney` = '0', `bmoney` = '200', `brek` = '504483', `starterpack` = '0', `Kompensasi1` = '0', `Kompensasi2` = '0', `phone` = '0', `phonestatus` = '0', `phonekuota` = '0', `phonecredit` = '0', `phonebook` = '0', `characterstory` = '0', `twitter` = '0', `twitterstatus` = '0', `wt` = '0', `hours` = '0', `minutes` = '3', `seconds` = '20', `paycheck` = '200', `skin` = '299', `facskin` = '0', `gender` = '1', `age` = '10/10/1990', `indoor` = '-1', `inhouse` = '-1', `inbiz` = '-1', `infamily` = '-1', `posx` = '1685.650024', `posy` = '-2333.639893', `posz` = '14.146900', `posa` = '0.544286', `interior` = '0', `world` = '0', `health` = '100.000000', `armour` = '0.000000', `hunger` = '99', `energy` = '99', `bladder` = '100', `sick` = '0', `hospital` = '0', `injured` = '0', `duty` = '0', `dutytime` = '0', `faction` = '0', `factionrank` = '0', `factionlead` = '0', `family` = '-1', `familyrank` = '0', `jail` = '0', `jail_time` = '0', `arrest` = '0', `arrest_time` = '0', `suspect` = '0', `suspect_time` = '0', `ask_time` = '0', `warn` = '0', `job` = '0', `job2` = '0', `jobtime` = '0', `sidejobtime` = '0', `sidejob_bustime` = '0', `job_spareparttime` = '0', `exitjob` = '0', `robtime` = '0', `myricous` = '0', `medicine` = '0', `medkit` = '0', `mask` = '0', `helmet` = '0', `snack` = '0', `sprunk` = '0', `gas` = '0', `bandage` = '0', `material` = '0', `component` = '0', `price1` = '0', `price2` = '0', `price3` = '0', `price4` = '0', `marijuana` = '0', `kanabis` = '0', `cig` = '0', `plant` = '0', `plant_time` = '0', `fishtool` = '0', `fish` = '0', `worm` = '0', `idcard` = '0', `idcard_time` = '0', `drivelic` = '0', `drivelic_time` = '0', `weaponlic` = '0', `weaponlic_time` = '0', `bizlic` = '0', `bizlic_time` = '0', `bpjs` = '0', `bpjs_time` = '0', `hbemode` = '1', `togpm` = '0', `toglog` = '0', `togads` = '0', `togwt` = '0', `boombox` = '0', `kepala` = '100', `perut` = '100', `lengankiri` = '100', `lengankanan` = '100', `kakikiri` = '100', `kakikanan` = '100', `pizza` = '0', `burger` = '0', `cola` = '0', `chiken` = '0', `nasikucing` = '0', `ayamgeprek` = '0', `Kue` = '0', `mineral` = '0', `lockpick` = '0', `robbanktime` = '0', `robbiztime` = '0', `robatmtime` = '0', `panelhacking` = '0', `bomb` = '0', `ayamhidup` = '0', `ayampotong` = '0', `ayamfillet` = '0', `farm` = '0', `farmrank` = '0', `tinggi` = '', `berat` = '', `batu` = '0', `batucucian` = '0', `emas` = '0', `minyak` = '0', `essence` = '0', `sampahsaya` = '0', `wool` = '0', `kain` = '0', `pakaian` = '0', `kayu` = '0', `papan` = '0', `umpan` = '0', `Pancingan` = '0', `Susu` = '0', `SusuOlahan` = '0', `BuluAyam` = '0', `InstallTweet` = '0', `InstallMap` = '0', `InstallMbanking` = '0', `InstallGojek` = '0', `Starling` = '0', `Kebab` = '0', `Cappucino` = '0', `MilxMax` = '0', `Roti` = '0', `Wallpaper` = '0', `InstallDweb` = '0', `padi` = '0', `sks` = '0', `karet` = '0', `box` = '0', `benihkopi` = '0', `benihteh` = '0', `benihjeruk` = '0', `olahkopi` = '0', `olahteh` = '0', `olahjeruk` = '0', `bijikopi` = '0', `sariteh` = '0', `sarijeruk` = '0', `kopiruq` = '0', `esteh` = '0', `esjeruk` = '0', `bandanaruq` = '0', `jagung` = '0', `cabai` = '0', `tebu` = '0', `padiolahan` = '0', `jagungolahan` = '0', `cabaiolahan` = '0', `tebuolahan` = '0', `beras` = '0', `tepung` = '0', `sambal` = '0', `gula` = '0', `besi` = '0', `aluminium` = '0', `penyu` = '0', `makarel` = '0', `nemo` = '0', `bluefish` = '0', `perban` = '0', `obatstres` = '0', `steak` = '0', `vest` = '0', `last_login` = CURRENT_TIMESTAMP() WHERE `reg_id` = '2'": Unknown column 'booster' in 'field list'
+plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:29] [plugins/discord-connector] DCC_SendChannelEmbedMessage: invalid channel id '0'
+[03/07/24 21:32:30] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[03/07/24 21:32:30] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:30] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:33] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:33] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:37] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:37] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:39] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:39] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:41] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:41] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:44] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:44] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:48] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:48] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:49] [plugins/discord-connector] DCC_SendChannelMessage: invalid channel id '0'
+[03/07/24 21:32:51] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:51] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:53] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:53] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:57] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:57] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:32:58] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:32:58] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:33:00] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:33:00] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)
+[03/07/24 21:33:03] [plugins/discord-connector] Discord terminated websocket connection; reason: Authentication failed. (4004)
+[03/07/24 21:33:03] [plugins/discord-connector] Can't write to Discord websocket gateway: The I/O operation has been aborted because of either a thread exit or an application request (995)

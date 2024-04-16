@@ -1,0 +1,14 @@
+{
+	"user": "oscar-broman",
+	"repo": "strlib",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"AGraber/samp-compat:1.0.2"
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}

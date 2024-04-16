@@ -1,0 +1,33 @@
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(8) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(46) : îøèáêà 001: îæèäàëñÿ òîêåí "-identifier-", íî íàéäåí "-integer value-"
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(419) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(425) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí ")"
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(427) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(429) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(432) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(433) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "hid"
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(434) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(435) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(436) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "hid"
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(437) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(438) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(439) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(440) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(441) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(442) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(443) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(444) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(445) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(446) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(447) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(448) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(449) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(450) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\perma\Documents\Asia Lane\gamemodes\DYNAMIC\HOUSE.pwn(451) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

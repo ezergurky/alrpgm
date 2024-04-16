@@ -1,0 +1,56 @@
+[04/07/2023 - 11:11:51] - Admin: Faruq Jumantara menyetel faction id 1 & rank 12 ke Faruq Jumantara!
+[04/07/2023 - 11:22:50] - Admin: Faruq Jumantara menyetel level admin 6 ke Faruq Jumantara!
+[05/07/2023 - 09:35:51] - Admin: Faruq Jumantara menyetel uang $100 ke Faruq Jumantara!
+[05/07/2023 - 10:18:08] - Admin: AufaXAwa menyetel faction id 1 & rank 12 ke AufaXAwa!
+[05/07/2023 - 10:40:33] - Admin: Faruq Jumantara menyetel faction id 3 & rank 12 ke Faruq Jumantara!
+[05/07/2023 - 11:37:05] - Admin: Faruq Jumantara menyetel faction id 1 & rank 12 ke Faruq Jumantara!
+[05/07/2023 - 18:00:25] - Admin:  memberi tes jail selama 0 menit. Alasan: 
+[05/07/2023 - 18:01:03] - Admin:  memberi tes jail selama 0 menit. Alasan: 
+[05/07/2023 - 18:49:57] - Admin: Faruq Jumantara memberi Faruq Jumantara jail selama 1 menit!
+[05/07/2023 - 18:51:02] - Admin: Faruq Jumantara memberi Faruq Jumantara jail selama 1 menit!
+[07/07/2023 - 13:19:20] - Admin: Faruq Jumantara menyetel uang $1,000 ke Faruq Jumantara!
+[07/07/2023 - 14:09:51] - [Vehicle]: AufaXAwa membuat kendaraan id 560 ke AufaXAwa!
+[12/07/2023 - 08:12:16] - Admin: Aufa Jumantara menyetel faction id 2 & rank 1 ke Aufa Jumantara!
+[13/07/2023 - 15:37:00] - [Gate]: aufaXawaa membuat gate id 7!
+[13/07/2023 - 15:42:13] - [Gate]: Aufa Jumantara membuat gate id 7!
+[13/07/2023 - 15:51:21] - Admin: aufaXawaa menyetel faction id 1 & rank 1 ke aufaXawaa!
+[13/07/2023 - 20:17:51] - [Gate]: aufaXawaa membuat gate id 8!
+[13/07/2023 - 20:21:45] - [Gate]: aufaXawaa menghapus gate id 8!
+[13/07/2023 - 20:22:28] - [Gate]: aufaXawaa membuat gate id 8!
+[13/07/2023 - 21:05:33] - [Workshop] aufaXawaa membuat workshop id 13!
+[13/07/2023 - 21:10:32] - Admin: aufaXawaa menyetel VIP ke aufaXawaa selama 30 hari jenis Sultan!
+[13/07/2023 - 21:11:11] - [Vehicle]: aufaXawaa membuat kendaraan id 560 ke aufaXawaa!
+[13/07/2023 - 21:20:01] - Admin: Aufa Jumantara memberi Aufa Jumantara jail selama 1 menit!
+[13/07/2023 - 21:20:12] - Admin: Aufa Jumantara merilis Aufa Jumantara dari penjara
+[13/07/2023 - 21:20:23] - Admin: Aufa Jumantara memberi Aufa Jumantara jail selama 1 menit!
+[13/07/2023 - 21:21:31] - Admin: Aufa Jumantara menyetel level Aufa Jumantara ke level 100!
+[19/07/2023 - 12:10:13] - Admin: Faruq Jumantara menyetel uang $100 ke Faruq Jumantara!
+[19/07/2023 - 12:10:26] - Admin: Faruq Jumantara menyetel uang $100 ke Faruq Jumantara!
+[19/07/2023 - 12:10:28] - Admin: Faruq Jumantara menyetel uang $1,000 ke Faruq Jumantara!
+[31/07/2023 - 08:17:20] - Admin: Aufa Jumantara menyetel level Aufa Jumantara ke level 0!
+[31/07/2023 - 08:18:31] - Admin: Aufa Jumantara menyetel level Aufa Jumantara ke level 0!
+[18/08/2023 - 21:14:28] - Admin: Aufa Jumantara menyetel faction id 3 & rank 5 ke Aufa Jumantara!
+[18/08/2023 - 22:01:29] - Admin: Aufa Jumantara menyetel hp Aufa Jumantara!
+[28/02/2024 - 18:21:40] - Admin: Gyu menyetel uang $100,000 ke Gyu!
+[28/02/2024 - 18:35:48] - Admin: Gyu menyetel hp Gyu!
+[28/02/2024 - 19:02:50] - [Gate]: Gyu menghapus gate id 30!
+[28/02/2024 - 21:52:18] - [House]: Gyu Mod menghapus house id 4!
+[28/02/2024 - 22:36:02] - Admin: Gyu menyetel ketua faction id 2 ke Gyu!
+[29/02/2024 - 12:35:13] - [Door]: Gyu menghapus door id 0!
+[03/03/2024 - 12:35:15] - [Vehicle]: Aperta membuat kendaraan id 560 ke Aperta!
+[03/03/2024 - 13:57:37] - Admin: Gyu Mods menyetel level admin 6 ke Kanetsu Ken!
+[03/03/2024 - 14:02:28] - Admin: Mojiro Isuta menyetel hp Mojiro Isuta!
+[03/03/2024 - 14:05:33] - Admin: Kanetsu Ken menyetel level Kanetsu Ken ke level 100!
+[03/03/2024 - 14:05:55] - Admin: Kanetsu Ken menyetel uang $1,000,000 ke Kanetsu Ken!
+[03/03/2024 - 14:06:08] - Admin: Suta menyetel level Kanetsu Ken ke level 40!
+[03/03/2024 - 14:06:19] - Admin: Kanetsu Ken menyetel level Kanetsu Ken ke level 1!
+[03/03/2024 - 14:06:32] - Admin: Suta menyetel level Kanetsu Ken ke level 40!
+[03/03/2024 - 14:07:14] - Admin: Suta menyetel level Kanetsu Ken ke level 35!
+[03/03/2024 - 14:08:11] - Admin: Kanetsu Ken menyetel level Kanetsu Ken ke level 1!
+[03/03/2024 - 14:14:44] - Admin: Gyu menyetel level admin 3 ke Jaelanikhan Saputra!
+[03/03/2024 - 14:19:53] - [Vehicle]: Ken membuat kendaraan id 541 ke Ken!
+[03/03/2024 - 14:22:26] - Admin: Gyu unban Santa_Dashi dari server!
+[03/03/2024 - 14:22:56] - Admin: Kanetsu Ken menyetel ketua faction id 1 ke Jaelanikhan Saputra!
+[03/03/2024 - 14:26:11] - [House]: Suta menghapus house id 139!
+[03/03/2024 - 16:03:43] - [Vehicle]: Mojiro Isuta membuat kendaraan id 560 ke Mojiro Isuta!
+[04/03/2024 - 02:59:37] - [Gate]: Gyu Mods membuat gate id 26!

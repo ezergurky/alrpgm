@@ -1,0 +1,6 @@
+CMD\PLAYER.pwn(27) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+CMD\PLAYER.pwn(34) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+CMD\ADMIN.pwn(591) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+CMD\ADMIN.pwn(596) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+

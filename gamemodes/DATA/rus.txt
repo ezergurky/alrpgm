@@ -1,0 +1,13 @@
+C:\Users\perma\Documents\Asia Lane\gamemodes\DATA\DIALOG.pwn(2) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnDialogResponse")
+C:\Users\perma\Documents\Asia Lane\gamemodes\DATA\DIALOG.pwn(4) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "pData"
+C:\Users\perma\Documents\Asia Lane\gamemodes\DATA\DIALOG.pwn(4) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\perma\Documents\Asia Lane\gamemodes\DATA\DIALOG.pwn(4) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "]"
+C:\Users\perma\Documents\Asia Lane\gamemodes\DATA\DIALOG.pwn(4) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\perma\Documents\Asia Lane\gamemodes\DATA\DIALOG.pwn(4) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:4.
